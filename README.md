@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Az400-LiorPelet/AZ400-PartsUnlimited/_apis/build/status/Az400-LiorPelet.calculator?branchName=master)](https://dev.azure.com/Az400-LiorPelet/AZ400-PartsUnlimited/_build/latest?definitionId=6&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
